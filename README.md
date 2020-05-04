@@ -1,6 +1,4 @@
-README.md# Captured_By_Victoria
-Photography Portfolio
-
+## This is my personal portfolio 
 
 Clean, minimalistic and responsive portfolio theme for a photographer powered by Bootstrap 4 and Ajax.
 
