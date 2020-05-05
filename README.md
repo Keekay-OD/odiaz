@@ -5,7 +5,7 @@ Clean, minimalistic and responsive portfolio theme for a photographer powered by
 
 ## Live Demo
 
-https://omardtech.github.io/Captured_by_Victoria/
+
 ![Photography Portfolio Theme](./screen1.png "Photography Portfolio Theme")
 ![Photography Portfolio Theme](./screen2.png "Aboutme Page")
 
